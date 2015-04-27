@@ -1,0 +1,7 @@
+E:\Android\Demo\app\build\intermediates\classes\debug
+E:\Android\Demo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-5e80fc77f2f40ec37537d3b5f52dfec910d02f18.jar
+E:\Android\Demo\app\build\intermediates\pre-dexed\debug\afinal-0.2.1-bin-fc98feccb3dcd5fac64386de8492d73f5e70d7aa.jar
+E:\Android\Demo\app\build\intermediates\pre-dexed\debug\locSDK_3.1-bde59dd733a4cba95c551535f76c01081ca2e481.jar
+E:\Android\Demo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d084b18b7d93d9bd16f7a0b481b3ca3a61abe8df.jar
+E:\Android\Demo\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-9e905b12afc1b15a2ccfd4df396d1ee1ba34ee2b.jar
+E:\Android\Demo\app\build\intermediates\pre-dexed\debug\classes-f072512c9d739e79e7b62927bf4c2f4c3652846d.jar

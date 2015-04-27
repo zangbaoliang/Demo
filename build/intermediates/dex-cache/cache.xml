@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Demo\app\libs\locSDK_3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="09224a1883da8b5bd37e766f4fab80570d879898">
+        <dex dex="E:\Android\Demo\app\build\intermediates\pre-dexed\debug\locSDK_3.1-bde59dd733a4cba95c551535f76c01081ca2e481.jar" />
+    </item>
+    <item
+        jar="E:\Android\Demo\app\libs\afinal-0.2.1-bin.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d67b1337defe99f1a1a5cf3c202b26e4b5ab9e01">
+        <dex dex="E:\Android\Demo\app\build\intermediates\pre-dexed\debug\afinal-0.2.1-bin-fc98feccb3dcd5fac64386de8492d73f5e70d7aa.jar" />
+    </item>
+    <item
+        jar="E:\Android\Demo\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\Android\Demo\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-9e905b12afc1b15a2ccfd4df396d1ee1ba34ee2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\baobao561\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Android\Demo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-5e80fc77f2f40ec37537d3b5f52dfec910d02f18.jar" />
+    </item>
+    <item
+        jar="E:\Android\Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android\Demo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-d084b18b7d93d9bd16f7a0b481b3ca3a61abe8df.jar" />
+    </item>
+    <item
+        jar="E:\Android\Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android\Demo\app\build\intermediates\pre-dexed\debug\classes-f072512c9d739e79e7b62927bf4c2f4c3652846d.jar" />
+    </item>
+
+</items>

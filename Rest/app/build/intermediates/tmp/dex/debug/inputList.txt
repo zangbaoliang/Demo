@@ -1,0 +1,4 @@
+E:\Android\Demo\Rest\app\build\intermediates\classes\debug
+E:\Android\Demo\Rest\app\build\intermediates\pre-dexed\debug\AMap_Services_V2.3.0-9afdead11e6bb5117eb8149f55bae955c54e75bb.jar
+E:\Android\Demo\Rest\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e45f819a7a93e5fcd587dcc5d3c5d7926550f023.jar
+E:\Android\Demo\Rest\app\build\intermediates\pre-dexed\debug\AMap_2DMap_V2.3.0-d2c86b1e8f166cb1dcf03c8967c81fe63c5dadd4.jar
