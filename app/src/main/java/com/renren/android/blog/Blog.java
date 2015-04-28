@@ -22,6 +22,7 @@ import com.renren.android.BaseApplication;
 import com.renren.android.R;
 import com.renren.android.RequestListener;
 
+//blog
 public class Blog extends Activity {
 	private BaseApplication mApplication;
 	private ImageView mBack;
