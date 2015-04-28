@@ -25,6 +25,7 @@ import com.renren.android.RequestListener;
 //blog
 //blog
 //log
+//log
 public class Blog extends Activity {
 	private BaseApplication mApplication;
 	private ImageView mBack;
